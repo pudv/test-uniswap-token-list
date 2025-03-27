@@ -1,0 +1,27 @@
+{
+  "name": "Sepolia Token List",
+  "timestamp": "2025-03-26T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xaa8e23fb1079ea71e0a56f48a2aa51851d8433d0",
+      "name": "Test USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xa168cab4d92d1cd903dd14fec09aaa36f44d3426",
+      "name": "Test Token ARTU",
+      "symbol": "ARTU",
+      "decimals": 18,
+      "logoURI": "https://github.com/pudv/test-uniswap-token-list/blob/main/test-token-artu-logo.webp"
+    }
+  ]
+}
