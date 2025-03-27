@@ -21,7 +21,7 @@
       "name": "Test Token ARTU",
       "symbol": "ARTU",
       "decimals": 18,
-      "logoURI": "https://github.com/pudv/test-uniswap-token-list/blob/main/test-token-artu-logo.webp"
+      "logoURI": "https://raw.githubusercontent.com/pudv/test-uniswap-token-list/refs/heads/main/test-token-artu-logo.webp"
     }
   ]
 }
